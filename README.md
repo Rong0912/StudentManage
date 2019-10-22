@@ -1,1 +1,1 @@
-# StudentManage
+# 在校学生管理系统
